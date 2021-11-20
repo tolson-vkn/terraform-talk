@@ -1,0 +1,11 @@
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfstate.d/*
+.terraform/*
+**.terraform/*
+.terraform.lock.hcl
+examples-demos/libvirt/.terraform
+examples-demos/gke/.terraform
+examples-demos/dns/.terraform
+examples-demos/cert-manager/.terraform
+examples-demos/dominos/.terraform
