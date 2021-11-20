@@ -22,6 +22,8 @@ Each demo has a README go look at those:
   * A big example showing modules and consuming other public terraform.
 * [libvirt](./examples-demos/libvirt/README.md)
   * The provider us linux nerds live for.
+* [cert-manager](./examples-demos/cert-manager/README.md)
+  * Nice example showing complex IAM policy work and shipping the results to kuberentes.
 
 
 ```
